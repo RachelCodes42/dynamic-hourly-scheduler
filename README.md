@@ -1,4 +1,4 @@
-# <Work Day Scheduler Starter Code>>
+# <Work Day Scheduler Starter Code>
 
 ## Description
 
@@ -22,14 +22,11 @@ Click into a time block to enter an event for that specific hour.
 After entering your event, click the "Save" button next to the time block to save the event to local storage.
 If you refresh the page or close and reopen the application, the saved events will persist, allowing you to manage your daily schedule effectively
 
-Deployment Link: https://rachelcodes42.github.io/dynamic-hourly-scheduler/
+![alt text](sc.png) 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ![alt text](./assets/images/screenshot.png)
+Deployment Link: 
+https://rachelcodes42.github.io/dynamic-hourly-scheduler/
     
-  
-
 ## Credits
 
 w3schools
@@ -60,4 +57,3 @@ Local Storage API
 ## How to Contribute
 
 Contributions to the Daily Planner Application are welcome and encouraged! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the project's GitHub repository.
-
